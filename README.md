@@ -21,7 +21,7 @@ This version of PyBetVH requires Python 3.x and the following Python modules/lib
 ## Installation
 Download this repository by clicking the button placed on the top-right of this page, under the project title (the one with the small cloud icon with a downward arrow) and unzip the archive wherever you prefer in your local computer (referred as `/path_to_pybetvh/` from hereafter).
 
-Alternatively, you can make a clone of the project (_at the moment this is possible for INGV GitLab registered users only_):
+Alternatively, you can make a clone of the project:
 ```
 git clone git@github.com:INGV/PyBetVH.git
 ```
